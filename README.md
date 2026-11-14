@@ -204,4 +204,4 @@ This repository serves as the official landing page for EVERSPACE 2. The softwar
 **Get the most recent version of EVERSPACE 2 today!**
 
 ---
-**Last updated:** 2026-11-13 18:21:42 UTC
+**Last updated:** 2026-11-14 00:07:45 UTC
